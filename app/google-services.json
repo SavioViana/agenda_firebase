@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859376461998",
+    "firebase_url": "https://agenda-24fa6.firebaseio.com",
+    "project_id": "agenda-24fa6",
+    "storage_bucket": "agenda-24fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859376461998:android:d1f2ed4036c3a463",
+        "android_client_info": {
+          "package_name": "agendafirebase.br.com.savioviana.agendafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859376461998-ohn4rufrobt398r64mqjkfg53moa50lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agendafirebase.br.com.savioviana.agendafirebase",
+            "certificate_hash": "0f4295bd72751d87b51b94a58b16d85aa4fe8c15"
+          }
+        },
+        {
+          "client_id": "859376461998-8n3b23qpuif63ff39puuv0r17e14br45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlfmyhrtB1PxkZUtJvkIgjlfVb48XGXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859376461998-8n3b23qpuif63ff39puuv0r17e14br45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

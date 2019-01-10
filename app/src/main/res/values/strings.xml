@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Minha Agenda</string>
+    <string name="btn_add_contato">novo contatato</string>
+    <string name="title_activity_form_contact">Novo Contato</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="phone">Telefone</string>
+    <string name="site">Site</string>
+    <string name="rating">Avaliação</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="cadastre">Cadastre-se</string>
+    <string name="back">Voltar</string>
+    <string name="sair">Sair</string>
+    <string name="recuperar_senha">Recuperar senha</string>
+</resources>
